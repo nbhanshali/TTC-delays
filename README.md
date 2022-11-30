@@ -1,2 +1,2 @@
-# TTC-delays
+# TTC Delays
 This project attempts to model the delays that any given person, in this case Michael, experiences on the TTC Subway Line 2 from Kennedy Station to Kipling Station. We will be looking 31 stations that pass along the way. In this project, we consider N to be the number of delays experienced by Michael, where T is a random variable that describes the total travelling time between the two stations for Michale in hours. This model and numerous simulations will be used to derive key information about the TTC delays.
